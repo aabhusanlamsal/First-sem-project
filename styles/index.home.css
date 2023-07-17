@@ -1,0 +1,96 @@
+.logo a img{
+    position: absolute;
+width: 186px;
+height: 138px;
+left: 0px;
+top: 25px;
+
+}
+
+.navbar li{
+    float:left;
+    list-style:none ;
+    padding: 0, 0 40px 40px;
+    
+}
+.navbar ul{
+    padding-top: 46px;
+    margin-left: 200px;
+    font-style: inherit;
+}
+.navbar li a {
+    padding: 20px 20px;
+    text-decoration: none;
+    color: black;
+    position: absolute;
+left: 304px;
+top: 78px;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+   
+}
+.navbar li.home a{
+    position: absolute;
+left: 490px;
+top: 55px;
+
+}
+.navbar li.about a{
+    position: absolute;
+left: 920px;
+top: 55px;
+
+}
+.navbar li.contact a{
+    position: absolute;
+left: 1300px;
+top: 55px;
+}
+
+.navbar li.delivery a{
+    position: absolute;
+    left: 1750px;
+    top: 50px;
+}
+
+.h1{
+    padding: 100px;
+    left: 800px;
+    position : absolute;
+    font-size: 30px;
+}
+.container{
+
+    display: grid;
+    grid-template-columns: auto auto auto auto auto  ;
+   grid-template-rows:  auto auto ;
+   height:auto;
+   width: auto;
+    margin-top: 100px;
+    padding-top: 250px;
+    row-gap: 300px;
+    }
+.item{
+    padding-right: 230px;
+    animation-duration: 4s;
+    animation-direction: reverse;
+    
+}
+
+.li a{
+    font-size: larger;
+    position: absolute;
+    width: 229px;
+    height: 47px;
+    left: 1154px;
+    top: 980px;
+    
+}
+
+    
+}
+

@@ -1,0 +1,75 @@
+﻿.logo a img{
+    position: absolute;
+width: 186px;
+height: 138px;
+left: 0px;
+top: 25px;
+
+}
+
+.navbar li{
+    float:left;
+    list-style:none ;
+    padding: 0, 0 40px 40px;
+}
+.navbar ul{
+    padding-top: 46px;
+    margin-left: 200px;
+    font-style: inherit;
+}
+.navbar li a {
+    padding: 60px 60px;
+    text-decoration: none;
+    color: black;
+    position: absolute;
+left: 304px;
+top: 78px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+   
+}
+.navbar li.home a{
+    position: absolute;
+left: 490px;
+top: 55px;
+
+}
+.navbar li.about a{
+    position: absolute;
+left: 710px;
+top: 55px;
+
+}
+.navbar li.contact a{
+    position: absolute;
+left: 980px;
+top: 55px;
+}
+
+.navbar li.delivery a{
+    position: absolute;
+    left: 1250px;
+    top: 50px;
+}
+.img{
+    
+    padding-top:150px;
+    padding-left: 480px;
+    width: 20%;
+}
+
+.Bim{
+ padding-left: 550px;
+position: absolute;
+  
+   padding-top: 89px;
+   text-align: center;
+   @media screen {(max-width:60px ;)
+    
+   }
+
+
+}
